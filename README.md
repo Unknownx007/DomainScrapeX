@@ -1,7 +1,7 @@
 # ☠️ DomainScrapeX: Automated Target Footprint Data Ingestion & Directory Spider Framework
 
 ```text
-                        [     DEDSEC      ]
+                                           [     DEDSEC      ]
 ```
 
 ## 📝 Description
